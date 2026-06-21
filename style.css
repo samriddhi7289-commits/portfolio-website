@@ -541,11 +541,14 @@ nav a:hover{
     color:#b8b8ff;
 }
 .dark-mode .hero h2{
-    color:#d1d5db;
+    color:#ffffff;
 }
 
 .dark-mode .hero p{
-    color:#e5e7eb;
+    color:#f3f4f6;
+}
+.dark-mode .hero-right img{
+    border:8px solid #1e293b;
 }
 .dark-mode header{
     background:#1e293b;
