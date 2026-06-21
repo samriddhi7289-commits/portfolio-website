@@ -540,3 +540,21 @@ nav a:hover{
 .dark-mode .project-date{
     color:#b8b8ff;
 }
+.dark-mode .hero h2{
+    color:#d1d5db;
+}
+
+.dark-mode .hero p{
+    color:#e5e7eb;
+}
+.dark-mode header{
+    background:#1e293b;
+}
+
+.dark-mode nav a{
+    color:white;
+}
+
+.dark-mode .logo{
+    color:#8b7cff;
+}
